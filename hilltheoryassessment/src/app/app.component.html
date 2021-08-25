@@ -1,0 +1,16 @@
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Link</th>
+    <th>Guid</th>
+    <th>PubDate</th>
+  </tr>
+  <tr *ngFor="let o of RssData.rss.channel[0].item">
+    <td>{{o.title}}</td>
+    <td>{{o.description}}</td>
+    <td>{{o.link}}</td>
+    <td>{{o.guid}}</td>
+    <td>{{o.pubDate}}</td>
+  </tr>
+</table>

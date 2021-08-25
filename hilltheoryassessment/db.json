@@ -1,0 +1,370 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0"
+    },
+    "channel": [
+      {
+        "atom:link": [
+          {
+            "$": {
+              "type": "application/rss+xml",
+              "rel": "self",
+              "href": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms"
+            }
+          },
+          {
+            "$": {
+              "type": "application/rss+xml",
+              "rel": "self",
+              "href": "/rssfeedstopstories.cms"
+            }
+          }
+        ],
+        "title": [
+          "Times of India"
+        ],
+        "link": [
+          "https://timesofindia.indiatimes.com"
+        ],
+        "description": [
+          "The Times of India: Breaking news, views, reviews, cricket from across India"
+        ],
+        "language": [
+          "en-gb"
+        ],
+        "copyright": [
+          "Copyright:(C) 00:49Wed, Aug 25, 2021 Bennett Coleman & Co. Ltd, http://info.indiatimes.com/terms/tou.html"
+        ],
+        "docs": [
+          "http://timescontent.com/"
+        ],
+        "image": [
+          {
+            "title": [
+              "Times of India"
+            ],
+            "link": [
+              "https://timesofindia.indiatimes.com"
+            ],
+            "url": [
+              "https://timesofindia.indiatimes.com/photo.cms?msid=507610"
+            ]
+          }
+        ],
+        "lastBuildDate": [
+          "00:49Wed, Aug 25, 2021"
+        ],
+        "item": [
+          {
+            "title": [
+              "Live: Union minister Narayan Rane granted bail after arrest over 'slap Uddhav' remark"
+            ],
+            "description": [
+              "Union minister Narayan Rane was arrested today over his remarks against Maharashtra chief minister Uddhav Thackeray, which triggered a political row and protests. Rane had said that he would have slapped Thackeray over the latter's ignorance of the year of India's independence. After his arrest, Rane was taken to Mahad in Raigad district where he was produced before a court. Cases were registered against the BJP leader at Mahad as well as at Nashik and Pune as his remark set off angry protests by workers of the ruling Shiv Sena. Rane was taken into custody at Golwali in Ratnagiri district during his 'Jan Ashirwad Yatra', and was taken to Sangameshwar police station. Stay with us for all the live updates:"
+            ],
+            "link": [
+              "https://timesofindia.indiatimes.com/city/mumbai/mumbai-new-live-updates-city-reports-226-new-covid-19-cases-cm-uddhav-thackeray-says-set-aside-festivals-for-while-dahi-handi-24-august-2021/liveblog/85581606.cms"
+            ],
+            "guid": [
+              "https://timesofindia.indiatimes.com/city/mumbai/mumbai-new-live-updates-city-reports-226-new-covid-19-cases-cm-uddhav-thackeray-says-set-aside-festivals-for-while-dahi-handi-24-august-2021/liveblog/85581606.cms"
+            ],
+            "pubDate": [
+              "Tue, 24 Aug 2021 07:00:25 IST"
+            ]
+          },
+          {
+            "title": [
+              "Live: 'Taliban take over some UN premises, curb movement'"
+            ],
+            "description": [
+              "India on Tuesday brought back another 78 evacuees from Afghanistan. They reached New Delhi after a halt at Tajik capital Dushanbe. Ukraine and Iran have denied reports that a Ukrainian evacuation plane was hijacked from Kabul. Stay with TOI for all the latest developments-"
+            ],
+            "link": [
+              "https://timesofindia.indiatimes.com/world/south-asia/afghanistan-crisis-live-updates-august-24/liveblog/85575366.cms"
+            ],
+            "guid": [
+              "https://timesofindia.indiatimes.com/world/south-asia/afghanistan-crisis-live-updates-august-24/liveblog/85575366.cms"
+            ],
+            "pubDate": [
+              "Tue, 24 Aug 2021 00:11:00 IST"
+            ]
+          },
+          {
+            "title": [
+              "Live: 'India may be entering endemic stage of Covid'"
+            ],
+            "description": [
+              "India on Monday reported 25,467 Covid-19 infections, pushing the overall tally of Covid cases in the country to 32,474,773. With 354 new fatalities in the last 24 hours, the death toll has further climbed to 4,35,110. At 97.68%, recovery rate is highest since March 2020. A total of 39,486 were discharged in the last 24 hours, taking total number of recoveries to 3,17,20,112. Stay with TOI for latest updates:"
+            ],
+            "link": [
+              "https://timesofindia.indiatimes.com/india/coronavirus-live-updates-august-24/liveblog/85578552.cms"
+            ],
+            "guid": [
+              "https://timesofindia.indiatimes.com/india/coronavirus-live-updates-august-24/liveblog/85578552.cms"
+            ],
+            "pubDate": [
+              "Tue, 24 Aug 2021 01:38:00 IST"
+            ]
+          },
+          {
+            "title": [
+              "'Danish was killed after being left behind in retreat'"
+            ],
+            "description": [
+              ""
+            ],
+            "link": [
+              "https://timesofindia.indiatimes.com/india/danish-siddiqui-was-killed-after-being-left-behind-in-retreat-afghan-general-says/articleshow/85601818.cms"
+            ],
+            "guid": [
+              "https://timesofindia.indiatimes.com/india/danish-siddiqui-was-killed-after-being-left-behind-in-retreat-afghan-general-says/articleshow/85601818.cms"
+            ],
+            "pubDate": [
+              "Tue, 24 Aug 2021 22:22:33 IST"
+            ]
+          },
+          {
+            "title": [
+              "CIA chief holds secret talks with Taliban"
+            ],
+            "description": [
+              "CIA director William Burns flew to Kabul for secret talks with the Taliban leadership on Monday amid expectation that the US and its western allies will call the militants' bluff and extend the August 31 withdrawal deadline in order to complete the evacuation of stranded Americans and Afghan allies."
+            ],
+            "link": [
+              "https://timesofindia.indiatimes.com/world/us/cia-director-holds-talks-with-taliban-as-us-allies-seek-to-extend-airlift-deadline/articleshow/85594553.cms"
+            ],
+            "guid": [
+              "https://timesofindia.indiatimes.com/world/us/cia-director-holds-talks-with-taliban-as-us-allies-seek-to-extend-airlift-deadline/articleshow/85594553.cms"
+            ],
+            "pubDate": [
+              "Tue, 24 Aug 2021 18:46:04 IST"
+            ]
+          },
+          {
+            "title": [
+              "Rolling Stones drummer Charlie Watts dies aged 80"
+            ],
+            "description": [
+              "Charlie Watts, the drummer of the legendary British rock'n'roll band Rolling Stones, died on Tuesday at the age of 80, his publicist said. \"It is with immense sadness that we announce the death of our beloved Charlie Watts. He passed away peacefully in a London hospital earlier today surrounded by his family,\" publicist Bernard Doherty said in a statement."
+            ],
+            "link": [
+              "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/rolling-stones-drummer-charlie-watts-dies-aged-80/articleshow/85602278.cms"
+            ],
+            "guid": [
+              "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/rolling-stones-drummer-charlie-watts-dies-aged-80/articleshow/85602278.cms"
+            ],
+            "pubDate": [
+              "Tue, 24 Aug 2021 22:37:32 IST"
+            ]
+          },
+          {
+            "title": [
+              "Explained: Why Lithium-ion batteries pose fire risk"
+            ],
+            "description": [
+              ""
+            ],
+            "link": [
+              "https://www.gadgetsnow.com/tech-news/explained-why-do-lithium-ion-batteries-in-electric-vehicles-pose-a-fire-risk/articleshow/85595228.cms"
+            ],
+            "guid": [
+              "https://www.gadgetsnow.com/tech-news/explained-why-do-lithium-ion-batteries-in-electric-vehicles-pose-a-fire-risk/articleshow/85595228.cms"
+            ],
+            "pubDate": [
+              "Tue, 24 Aug 2021 19:44:57 IST"
+            ]
+          },
+          {
+            "title": [
+              "New RE Classic 350 teased, launch on September 1"
+            ],
+            "description": [
+              "Classic 350 will undergo a handful of changes, both mechanically and cosmetically. Royal Enfield is set to replace the Unit Construction Engine (UC) with the J-Series engine — the same one which powers the Meteor 350."
+            ],
+            "link": [
+              "https://timesofindia.indiatimes.com/auto/bikes/2021-royal-enfield-classic-350-teased-launch-on-september-1/articleshow/85604442.cms"
+            ],
+            "guid": [
+              "https://timesofindia.indiatimes.com/auto/bikes/2021-royal-enfield-classic-350-teased-launch-on-september-1/articleshow/85604442.cms"
+            ],
+            "pubDate": [
+              "Tue, 24 Aug 2021 23:29:18 IST"
+            ]
+          },
+          {
+            "title": [
+              "Apple may have rejected this feature for iPhone 13"
+            ],
+            "description": [
+              ""
+            ],
+            "link": [
+              "https://www.gadgetsnow.com/mobiles/apple-may-have-rejected-this-touchscreen-feature-for-iphone-13-series/articleshow/85590941.cms"
+            ],
+            "guid": [
+              "https://www.gadgetsnow.com/mobiles/apple-may-have-rejected-this-touchscreen-feature-for-iphone-13-series/articleshow/85590941.cms"
+            ],
+            "pubDate": [
+              "Tue, 24 Aug 2021 15:58:34 IST"
+            ]
+          },
+          {
+            "title": [
+              "Govt hoping to earn Rs 6cr per km from monetisation of completed NHs"
+            ],
+            "description": [
+              ""
+            ],
+            "link": [
+              "https://timesofindia.indiatimes.com/india/government-hoping-to-earn-rs-6-crore-per-km-from-monetisation-of-completed-national-highways/articleshow/85603391.cms"
+            ],
+            "guid": [
+              "https://timesofindia.indiatimes.com/india/government-hoping-to-earn-rs-6-crore-per-km-from-monetisation-of-completed-national-highways/articleshow/85603391.cms"
+            ],
+            "pubDate": [
+              "Tue, 24 Aug 2021 23:06:58 IST"
+            ]
+          },
+          {
+            "title": [
+              "Amazon India app showing this glitch for some users"
+            ],
+            "description": [
+              ""
+            ],
+            "link": [
+              "https://www.gadgetsnow.com/tech-news/amazon-india-app-showing-this-glitch-for-some-iphone-users/articleshow/85592343.cms"
+            ],
+            "guid": [
+              "https://www.gadgetsnow.com/tech-news/amazon-india-app-showing-this-glitch-for-some-iphone-users/articleshow/85592343.cms"
+            ],
+            "pubDate": [
+              "Tue, 24 Aug 2021 16:59:17 IST"
+            ]
+          },
+          {
+            "title": [
+              "Union minister Rane's 'slap Uddhav' dig: How things unfolded"
+            ],
+            "description": [
+              ""
+            ],
+            "link": [
+              "https://timesofindia.indiatimes.com/india/narayan-rane-arrested-amid-massive-backlash-over-slap-uddhav-dig-how-events-unfolded/articleshow/85590614.cms"
+            ],
+            "guid": [
+              "https://timesofindia.indiatimes.com/india/narayan-rane-arrested-amid-massive-backlash-over-slap-uddhav-dig-how-events-unfolded/articleshow/85590614.cms"
+            ],
+            "pubDate": [
+              "Tue, 24 Aug 2021 15:45:24 IST"
+            ]
+          },
+          {
+            "title": [
+              "Delta cases show 300 times higher viral load: Study"
+            ],
+            "description": [
+              ""
+            ],
+            "link": [
+              "https://timesofindia.indiatimes.com/home/science/delta-cases-show-300-times-higher-viral-load-south-korea-study/articleshow/85589845.cms"
+            ],
+            "guid": [
+              "https://timesofindia.indiatimes.com/home/science/delta-cases-show-300-times-higher-viral-load-south-korea-study/articleshow/85589845.cms"
+            ],
+            "pubDate": [
+              "Tue, 24 Aug 2021 15:04:39 IST"
+            ]
+          },
+          {
+            "title": [
+              "HC's 'skin-to-skin contact' order outrageous: AG to SC"
+            ],
+            "description": [
+              ""
+            ],
+            "link": [
+              "https://timesofindia.indiatimes.com/india/bombay-hc-order-on-skin-to-skin-contact-for-pocso-offences-is-outrageous-ag-tells-sc/articleshow/85596197.cms"
+            ],
+            "guid": [
+              "https://timesofindia.indiatimes.com/india/bombay-hc-order-on-skin-to-skin-contact-for-pocso-offences-is-outrageous-ag-tells-sc/articleshow/85596197.cms"
+            ],
+            "pubDate": [
+              "Tue, 24 Aug 2021 20:43:06 IST"
+            ]
+          },
+          {
+            "title": [
+              "Woman who attempted self-immolation outside SC dies"
+            ],
+            "description": [
+              "A 24-year-old woman who allegedly attempted suicide with a man outside the Supreme Court here died on Tuesday, police said."
+            ],
+            "link": [
+              "https://timesofindia.indiatimes.com/city/delhi/delhi-woman-who-attempted-self-immolation-outside-supreme-court-dies/articleshow/85592571.cms"
+            ],
+            "guid": [
+              "https://timesofindia.indiatimes.com/city/delhi/delhi-woman-who-attempted-self-immolation-outside-supreme-court-dies/articleshow/85592571.cms"
+            ],
+            "pubDate": [
+              "Tue, 24 Aug 2021 17:08:06 IST"
+            ]
+          },
+          {
+            "title": [
+              "Rahul Gandhi makes a comeback on Twitter"
+            ],
+            "description": [
+              "Ten days after Twitter unlocked the handle of Rahul Gandhi in the wake of the controversy over revealing the identity of a Delhi minor who was allegedly gang-raped and murdered, the Congress leader used the micro-blogging site for the first time on Tuesday."
+            ],
+            "link": [
+              "https://timesofindia.indiatimes.com/india/rahul-gandhi-makes-a-comeback-on-twitter-10-days-after-getting-unlocked/articleshow/85600103.cms"
+            ],
+            "guid": [
+              "https://timesofindia.indiatimes.com/india/rahul-gandhi-makes-a-comeback-on-twitter-10-days-after-getting-unlocked/articleshow/85600103.cms"
+            ],
+            "pubDate": [
+              "Tue, 24 Aug 2021 22:03:02 IST"
+            ]
+          },
+          {
+            "title": [
+              "Riyadh lifts quarantine for Indians vaccinated in Saudi"
+            ],
+            "description": [
+              ""
+            ],
+            "link": [
+              "https://timesofindia.indiatimes.com/india/saudi-allows-indians-who-got-fully-vaccinated-there-to-return-to-the-kingdom/articleshow/85595768.cms"
+            ],
+            "guid": [
+              "https://timesofindia.indiatimes.com/india/saudi-allows-indians-who-got-fully-vaccinated-there-to-return-to-the-kingdom/articleshow/85595768.cms"
+            ],
+            "pubDate": [
+              "Tue, 24 Aug 2021 20:59:27 IST"
+            ]
+          },
+          {
+            "title": [
+              "Explained: Why Taliban want to be globally recognised"
+            ],
+            "description": [
+              ""
+            ],
+            "link": [
+              "https://timesofindia.indiatimes.com/world/south-asia/explained-why-taliban-want-to-be-globally-recognised/articleshow/85586045.cms"
+            ],
+            "guid": [
+              "https://timesofindia.indiatimes.com/world/south-asia/explained-why-taliban-want-to-be-globally-recognised/articleshow/85586045.cms"
+            ],
+            "pubDate": [
+              "Tue, 24 Aug 2021 11:56:32 IST"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
